@@ -1,0 +1,4 @@
+﻿namespace TaskManagementAPI.Application.Features.Commands.AuthorizationEndpoints.AssignRoleToEndpoints;
+public class AssignRoleToEndpointsCommandResponse
+{
+}
